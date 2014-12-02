@@ -1,6 +1,6 @@
 FROM miksago/ubuntu-go
 
-MAINTAINER  Ross Kukulinski <ross@speakit.io>
+MAINTAINER  Ross Kukulinski <ross@getyodlr.com>
 
 WORKDIR /root
 
